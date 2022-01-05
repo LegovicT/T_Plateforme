@@ -1,0 +1,31 @@
+bon alors du coup j'ai une idée de base pour le gameplay du jeu, un jeu de combat a forcément besoin de skills pure et de méchaniques pour les attaques et combos mais pour garder aussi un peu de strategie et de macro, puis aussi pour garder l'esprit RPG j'ai pensé un truc.
+[16:52]
+Pour un combat VS :
+[16:53]
+1 - tu choisis un personnage
+[16:53]
+2- tu choisis la combinaison de 4 sorts de magie que tu veux utiliser parmis la liste de spell qu'il a disponible
+[16:53]
+( pour les associer avec les raccourcis R2 + carré / R2 + rond / R2 + croix / R2 + triangle )
+[16:54]
+R2 étant donc le raccourci pour lancer un sort de magie, on pourrait meme faire R2 enfoncé tout seul pour faire un sort de magie de base que le perso a en plus par défaut
+[16:55]
+3 - tu chois 4 items dans les items disponible, les liste  d'items dispo par contre c'est la meme pour les persos et tu peux en débloquer des nouveaux dans le jeu etc
+[16:55]
+( pour les associer avec le raccourcis L2 + carré / L2 + rond / L2 + croix / L2 + triangle )
+[16:56]
+L2 étant donc le raccourci pour utiliser un item,  contrairement au sort de magie les items sont limités en combat, si tu utilises tes 4 items tu les a plus, une seul utilisation par items
+[16:56]
+ça rajoute donc de la strat et des choix de préférence pour jouer ton perso ( strats, opti, macro skill )(modifié)
+[16:58]
+les persos ont aussi bien sûr leur propre compétences et combos mais ça tu peux pas les changer, c'est propre au persos. ( skill micro )(modifié)
+[16:59]
+quand tu joues tu peux tester differentes associations d'items et de magies et voir ce qui marche le mieux en fonction du persos et de comment tu veux le jouer etc(modifié)
+[17:00]
+---
+[17:01]
+pour les magies disponibles d'un persos j'avais penser faire en fonction de ses affinités, par exemple un perso aurait 2 affinités d'éléments
+[17:01]
+du coup imaginons un perso A qui a pour affinité feu et vent, il pourra choisir des magies parmi des sorts de feu et vent, et il devra en choisir seulement 4
+[17:02]
+par contre pour les items tous les persos on accès au mêmes items, mais pareil il en choisit seulement 4

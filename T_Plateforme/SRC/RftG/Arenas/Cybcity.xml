@@ -1,0 +1,27 @@
+<properties>
+	<icon="Arenas/Cybcity_ico.png" />
+	<background="Arenas/backgroundCity.png">
+		<pos="0.5x0.5" />
+	</background>
+	<forground="Arenas/MetalPlateGround.png">
+		<pos="0.5x0.85" />
+	</forground>
+</properties>
+
+<description>"description que tu peux voir dans la selection de l arene"</description>
+
+<doodad id="00">
+	<name="metalBox" />
+	<sprite="Arenas/MetalBox.png">
+		<pos="0.5x0.7" />
+	</sprite>
+</doodad>
+<doodad id="01">
+	<name="frozenMetalPlan" />
+	<force="5x0" />
+	<sprite="Arenas/FrozenMetalPlan.png">
+		<pos="0.4x0.7" />
+	</sprite>
+	<animation id="none">
+	</animation>
+</doodad>

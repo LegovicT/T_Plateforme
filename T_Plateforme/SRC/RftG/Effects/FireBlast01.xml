@@ -1,0 +1,46 @@
+<properties>
+	<name="FireBlast1" />
+	<sprite="Effects/FireBlast01.png" />
+	<hitbox="Effects/FireBlast01_Hitbox.png" />
+	<type="cast">
+	<move="front">
+</properties>
+
+<start="0">
+</start>
+
+<loop="4">
+	<sound="FireBlast1_loop.mp3" />
+	<frame id="00">
+		<propulsion="-50.0">
+		<damages="10.0">
+	</frame>		
+	<frame id="01">
+		<propulsion="-50.0">
+		<damages="10.0">
+	</frame>	
+	<frame id="02">
+		<propulsion="-50.0">
+		<damages="10.0">
+	</frame>
+	<frame id="03">
+		<propulsion="-50.0">
+		<damages="10.0">
+	</frame>
+</loop>
+
+<end="3">
+	<sound="fireBlast1_end.mp3" />
+	<frame id="00">		
+		<propulsion="20.0">
+		<damages="10.0">
+	</frame>
+	<frame id="01">
+		<propulsion="20.0">
+		<damages="10.0">
+	</frame>	
+	<frame id="02">
+		<propulsion="20.0">
+		<damages="10.0">
+	</frame>
+</end>

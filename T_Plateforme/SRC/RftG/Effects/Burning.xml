@@ -1,0 +1,15 @@
+<properties>
+	<name="Burning" />
+	<sprite="Images/Burning.png" />
+	<hitbox="Images/Burning_Hitbox.png" />
+	<icon="Images/Burning_Ico.png" />
+</properties>
+
+<animation id="00" name="stand">
+	<sound="Burning_stand.mp3" />
+	<frame id="00">
+		<damages="1000" />
+		<propulsion="10" />		
+		<effectOnTarget="fxName" /> //eventuel autre effet déclanché
+	</frame>
+</animation>

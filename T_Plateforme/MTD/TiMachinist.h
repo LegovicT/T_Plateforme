@@ -1,0 +1,4 @@
+#ifndef TIMACHINIST_H
+#define TIMACHINIST_H
+
+#endif // TIMACHINIST_H

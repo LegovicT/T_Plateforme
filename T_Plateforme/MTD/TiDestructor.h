@@ -1,0 +1,4 @@
+#ifndef TIDESTRUCTOR_H
+#define TIDESTRUCTOR_H
+
+#endif // TIDESTRUCTOR_H

@@ -1,0 +1,116 @@
+<properties>
+	<name="Lautre" />
+	<sprite="Images/Lautre.png" />
+	<hitbox="Images/Lautre_hitbox.png" />
+	<hurtbox="Images/Lautre_hurtbox.png" />
+	<icon="Images/Lautre_Ico.png" />
+	<selection="Images/Lautre_select.png" />
+	<life="1000" />
+	<stamina="1000" />
+	<weight="85.5" />
+</properties>
+
+<description>"description que tu peux voir dans la selection des persos"</description>
+<tips>"astuces sur le gameplay du perso que tu peux voir dans la selection des persos"</tips>
+
+<animation id="00" name="stand">
+	<sound="bob_stand_launch.mp3" />
+	<frame id="00">
+	</frame>
+	<frame id="01">
+	</frame>
+	<frame id="02">
+	</frame>
+	<frame id="03">
+	</frame>	
+	<frame id="04">
+	</frame>
+</animation>
+
+<animation id="01" name="walk">
+	<sound="bob_qAtk_launch.mp3" />
+	<frame id="00">
+	</frame>
+</animation>
+
+<animation id="02" name="qAtk">
+	<sound="bob_qAtk_launch.mp3" />
+	<frame id="00">	
+		<effect="Shuriken" />
+		<damages="1.0" />	
+		<propulsion="10.0" />
+	</frame>
+	<frame id="01">
+		<damages="1.0" />
+		<propulsion="10.0" />
+	</frame>
+	<frame id="02">
+		<damages="10.0" />
+		<propulsion="20.0" />
+	</frame>
+	<frame id="03">
+		<damages="15.0" />
+		<propulsion="25.0" />
+	</frame>
+	<frame id="04">
+		<damages="15.0" />
+		<propulsion="25.0" />
+	</frame>
+</animation>
+
+<animation id="03" name="guard">
+	<frame id="00">
+	</frame>
+</animation>
+
+<animation id="04" name="fall">
+	<frame id="00">
+	</frame>
+</animation>
+
+<animation id="05" name="jump">
+	<frame id="00">
+	</frame>
+</animation>
+
+<animation id="06" name="qAirAtk">
+	<frame id="00">
+		<damages="10.0" />
+		<propulsion="15.0" />
+	</frame>
+	<frame id="01">
+		<damages="25.0" />
+		<propulsion="15.0" />
+	</frame>
+	<frame id="02">
+		<damages="25.0" />
+		<propulsion="15.0" />
+	</frame>	
+	<frame id="03">
+		<damages="10.0" />
+		<propulsion="15.0" />
+	</frame>
+</animation>
+
+<animation id="07" name="crouch">
+	<frame id="00">
+	</frame>	
+	<frame id="01">
+	</frame>
+</animation>
+
+<animation id="08" name="qCroutchAtk">
+	<frame id="00">
+	</frame>
+	<frame id="01">
+		<damages="5.0" />
+		<propulsion="8.0" />
+	</frame>
+</animation>
+
+<animation id="09" name="guardCrouch">
+	<frame id="00">
+	</frame>
+	<frame id="01">
+	</frame>
+</animation>

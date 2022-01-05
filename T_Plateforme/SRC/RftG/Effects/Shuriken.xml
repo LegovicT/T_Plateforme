@@ -1,0 +1,44 @@
+<properties>
+	<name="Shuriken" />
+	<sprite="Effects/ShurikenFx.png" />
+	<hitbox="Effects/ShurikenFx_Hitbox.png" />
+	<type="cast">
+	<move="front">
+</properties>
+
+<start="0">
+</start>
+<loop="6">
+	<sound="shuriken_loop.mp3" />
+	<frame id="00">
+		<propulsion="5.0">
+		<damages="10.0">
+	</frame>		
+	<frame id="01">
+		<propulsion="5.0">
+		<damages="10.0">
+	</frame>	
+	<frame id="02">
+		<propulsion="5.0">
+		<damages="10.0">
+	</frame>
+	<frame id="03">
+		<propulsion="5.0">
+		<damages="10.0">
+	</frame>
+	<frame id="04">
+		<propulsion="5.0">
+		<damages="10.0">
+	</frame>
+	<frame id="05">
+		<propulsion="5.0">
+		<damages="10.0">
+	</frame>
+</loop>
+<end="2">
+	<sound="shuriken_end.mp3" />
+	<frame id="00">
+	</frame>
+	<frame id="01">
+	</frame>
+</end>
